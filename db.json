@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "login": "user1",
+      "id": "1",
+      "avatar_url": "https://images.vexels.com/media/users/3/139723/isolated/preview/99f27e5b509cb652bcc0164c82031417-blue-businessman-square-avatar-by-vexels.png",
+      "name": "User One",
+      "email": "user1@example.com",
+      "followers": 10,
+      "following": 5
+    },
+    {
+      "login": "user2",
+      "id": "2",
+      "avatar_url": "http://example.com/avatar2.png",
+      "name": "User Two",
+      "email": "user2@example.com",
+      "followers": 20,
+      "following": 10
+    },
+    {
+      "login": "user3",
+      "id": "3",
+      "avatar_url": "http://example.com/avatar3.png",
+      "name": "User Three",
+      "email": "user3@example.com",
+      "followers": 30,
+      "following": 15
+    },
+    {
+      "login": "user4",
+      "id": "4",
+      "avatar_url": "http://example.com/avatar4.png",
+      "name": "User Four",
+      "email": "user4@example.com",
+      "followers": 40,
+      "following": 20
+    },
+    {
+      "login": "user5",
+      "id": "5",
+      "avatar_url": "http://example.com/avatar5.png",
+      "name": "User Five",
+      "email": "user5@example.com",
+      "followers": 50,
+      "following": 25
+    }
+  ],
+  "repos": [
+    {
+      "name": "Repo Two",
+      "date": "2022-01-02",
+      "post_id": "1",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "post_id": "2",
+      "name": "Repo Three",
+      "date": "2022-01-03"
+    },
+    {
+      "id": "4",
+      "post_id": "3",
+      "name": "Repo Four",
+      "date": "2022-01-04"
+    },
+    {
+      "id": "5",
+      "post_id": "5",
+      "name": "Repo Five",
+      "date": "2022-01-05"
+    },
+    {
+      "id": "b088",
+      "name": "123123",
+      "date": "123123",
+      "post_id": "1"
+    },
+    {
+      "id": "bd32",
+      "name": "111111",
+      "date": "11111",
+      "post_id": "1"
+    }
+  ]
+}
